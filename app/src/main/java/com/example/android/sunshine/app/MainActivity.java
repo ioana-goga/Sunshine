@@ -1,4 +1,4 @@
-package com.example.andorid.sunshine.app;
+package com.example.android.sunshine.app;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
